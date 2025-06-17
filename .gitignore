@@ -1,0 +1,6 @@
+# PyCharm-Projektdateien ignorieren
+.idea/
+*.iml
+
+# Submodule oder versehentliche Repos ignorieren
+lerninhalte-aufgaben/
