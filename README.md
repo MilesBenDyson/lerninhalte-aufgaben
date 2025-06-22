@@ -13,3 +13,4 @@ PYTHON/       → Python Lernnotizen, Aufgaben, Lösungen
 AI/           → Künstliche Intelligenz Notizen, Aufgaben
 GUI/          → GUI-Entwicklung Notizen, Beispiele
 ...           → Weitere Themen folgen
+
