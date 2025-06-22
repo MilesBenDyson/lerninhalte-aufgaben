@@ -11,3 +11,5 @@ Lernziele:
 
 Extra-Feature (optional):
 - Beim Start zeigt das Programm ein motivierendes Zitat an (aus einer kleinen Liste per random.choice()).
+
+
