@@ -14,18 +14,6 @@ Das Ziel: meinen Fortschritt dokumentieren und sichtbar machen.
 
 
 
-\## 📂 Ordnerstruktur
-
-\- `uebungen/` → kleine Coding-Aufgaben (z. B. Zeitdifferenzen, Funktionen, if-Kaskaden)
-
-\- `notizen/` → (optional) kurze Erklärungen oder Gedanken zu den Übungen
-
-
-
----
-
-
-
 \## 🗓️ Lernfortschritt
 
 Ich nummeriere oder datiere meine Übungen, um meine Entwicklung zu zeigen:
