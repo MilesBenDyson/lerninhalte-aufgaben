@@ -1,7 +1,19 @@
-# PyCharm-Projektdateien ignorieren
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# --- Virtuelle Umgebungen ---
+.venv/
+env/
+venv/
+
+# --- PyCharm/IDEA ---
 .idea/
 *.iml
 
-# Submodule oder versehentliche Repos ignorieren
-lerninhalte-aufgaben/
-Python/tagebuch_tool/Buch_der_Erinnerung.txt
+# --- Sonstiges ---
+.DS_Store
+Thumbs.db

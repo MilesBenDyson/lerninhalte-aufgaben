@@ -1,16 +1,68 @@
-# 📚 Lerninhalte & Aufgaben
+\# Python-Übungen von Ben
 
-Dieses Repository dient als persönliches Lernjournal.  
-Hier dokumentiere ich **Lerninhalte, Notizen, Aufgaben und Lösungen** aus verschiedenen Bereichen meines IT-Lernwegs.
+
+
+Willkommen in meinem Übungs-Repository 👋  
+
+Hier sammele ich meine \*\*Python-Übungen\*\* aus meinem Lernprozess.  
+
+Das Ziel: meinen Fortschritt dokumentieren und sichtbar machen.
+
+
 
 ---
 
-## 📁 Struktur des Repos
 
-```plaintext
-GIT/          → Git Cheat Sheets, Notizen, Aufgaben
-PYTHON/       → Python Lernnotizen, Aufgaben, Lösungen
-AI/           → Künstliche Intelligenz Notizen, Aufgaben
-GUI/          → GUI-Entwicklung Notizen, Beispiele
-...           → Weitere Themen folgen
+
+\## 📂 Ordnerstruktur
+
+\- `uebungen/` → kleine Coding-Aufgaben (z. B. Zeitdifferenzen, Funktionen, if-Kaskaden)
+
+\- `notizen/` → (optional) kurze Erklärungen oder Gedanken zu den Übungen
+
+
+
+---
+
+
+
+\## 🗓️ Lernfortschritt
+
+Ich nummeriere oder datiere meine Übungen, um meine Entwicklung zu zeigen:
+
+
+
+\- \*\*2025-08-17\*\*: `minutes\_diff.py` – Unterschied zwischen `.seconds` und `.total\_seconds()`  
+
+\- \*\*2025-08-16\*\*: `funktionen.py` – erste Übungen mit Funktionen  
+
+\- \*\*2025-08-12\*\*: `arbeitszeiten\_pausen\_prozent.py` – kleine Rechenaufgabe mit `datetime`
+
+
+
+---
+
+
+
+\## 🎯 Ziele
+
+\- Grundlagen festigen (`datetime`, Funktionen, Listen, if-Kaskaden)
+
+\- Sauberen und nachvollziehbaren Code schreiben
+
+\- Mein Wissen schrittweise erweitern (später auch C++ und Cybersecurity)
+
+
+
+---
+
+
+
+\## 💡 Hinweis
+
+Dieses Repository ist bewusst ein „Übungsheft“ –  
+
+daher sind nicht alle Programme perfekt oder fehlerfrei, sondern zeigen \*\*meine Lernreise\*\*.
+
+
 
