@@ -1,0 +1,24 @@
+{
+  "datum": "23.08.2025",
+  "wochentag": "Samstag",
+  "bloecke": [
+    {
+      "start": "08:00",
+      "ende": "09:30",
+      "minuten": 90
+    },
+    {
+      "start": "10:00",
+      "ende": "12:00",
+      "minuten": 120
+    },
+    {
+      "start": "22:45",
+      "ende": "06:00",
+      "minuten": 435
+    }
+  ],
+  "pausen_minuten": 2205,
+  "gesamtminuten": 645,
+  "notiz": "homeoffice"
+}
