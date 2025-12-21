@@ -1,0 +1,47 @@
+[
+  {
+    "nutzername": "Alexander",
+    "salt": "45nfyt7djmgl06xx",
+    "hash": "63fa17227c698e768ef0eb5df27420394ce44a6c8203ae8162b459d868bc7e13"
+  },
+  {
+    "nutzername": "Ben",
+    "salt": "w36zh7gmqghmftfl",
+    "hash": "6f38801766f36793ed1cd54073097bf1ccfe8a9eb91c8c351d4fd72fab35848f"
+  },
+  {
+    "nutzername": "Ben",
+    "salt": "s0tznugxd3q80rro",
+    "hash": "3ccd885a3626b22bd10d9b1d60762211c37d38d791c96af545f9448344a343d7"
+  },
+  {
+    "nutzername": "Ben",
+    "salt": "i4o8f9xu11cmls1j",
+    "hash": "06a96391d0a68987cacb74aaaeb75b7c030ddd6957c79f6edd1e392ab3507055"
+  },
+  {
+    "nutzername": "Benjamin",
+    "salt": "i8advwqgwwidhj9s",
+    "hash": "ad529702362c3a91ef9e3666436671eb20fe606f965f6498e9a7332de82adedf"
+  },
+  {
+    "nutzername": "Been",
+    "salt": "4xh25tpo6qzahrr7",
+    "hash": "04fa1305fe12d5037cf3af5cce9f513910f177b139541ae06c3f8c0efebf0c41"
+  },
+  {
+    "nutzername": "B",
+    "salt": "12txuwc7x6epioua",
+    "hash": "746d160e6a5cadebcd43d8c9651523b3d65171995b349a816617d156192d1e09"
+  },
+  {
+    "nutzername": "B",
+    "salt": "o26dj3a6vf43dp6d",
+    "hash": "ab487c6554d90ada071cf882b6e72c5c40d95b1bfca9de72c0062899c3ee9715"
+  },
+  {
+    "nutzername": "Ben",
+    "salt": "0jfwesruwejmrcqe",
+    "hash": "6c6658bb0136b3e319d13ebf4c708e21e45999385dc47b09c1203398386a1276"
+  }
+]
