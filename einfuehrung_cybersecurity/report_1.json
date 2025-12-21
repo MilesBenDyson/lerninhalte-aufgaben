@@ -1,0 +1,29 @@
+[
+  {
+    "passwort": "1234567",
+    "laenge": false,
+    "zahlen": true,
+    "grossbuchstabe": false,
+    "kleinbuchstaben": false,
+    "sonderzeichen": false,
+    "einschätzung": "schlecht"
+  },
+  {
+    "passwort": "Passwort!",
+    "laenge": true,
+    "zahlen": false,
+    "grossbuchstabe": true,
+    "kleinbuchstaben": true,
+    "sonderzeichen": true,
+    "einschätzung": "gut"
+  },
+  {
+    "passwort": "pASSword1",
+    "laenge": true,
+    "zahlen": true,
+    "grossbuchstabe": true,
+    "kleinbuchstaben": true,
+    "sonderzeichen": false,
+    "einschätzung": "gut"
+  }
+]

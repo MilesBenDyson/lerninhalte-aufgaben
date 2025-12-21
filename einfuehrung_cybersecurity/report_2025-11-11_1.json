@@ -1,0 +1,26 @@
+[
+  {
+    "host": "localhost",
+    "IP": "127.0.0.1",
+    "ports": {
+      "21": "geschlossen",
+      "22": "geschlossen",
+      "80": "geschlossen",
+      "443": "geschlossen",
+      "3306": "geschlossen",
+      "8080": "geschlossen"
+    }
+  },
+  {
+    "host": "example.com",
+    "IP": "23.220.75.232",
+    "ports": {
+      "21": "geschlossen",
+      "22": "geschlossen",
+      "80": "offen",
+      "443": "offen",
+      "3306": "geschlossen",
+      "8080": "geschlossen"
+    }
+  }
+]
