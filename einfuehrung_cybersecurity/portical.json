@@ -1,0 +1,27 @@
+[
+  {
+    "Port": 80,
+    "Host": "127.0.0.1",
+    "Status": "CLOSED"
+  },
+  {
+    "Port": 135,
+    "Host": "127.0.0.1",
+    "Status": "OPEN"
+  },
+  {
+    "Port": 443,
+    "Host": "127.0.0.1",
+    "Status": "CLOSED"
+  },
+  {
+    "Port": 445,
+    "Host": "127.0.0.1",
+    "Status": "OPEN"
+  },
+  {
+    "Port": 3389,
+    "Host": "127.0.0.1",
+    "Status": "CLOSED"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "offen": 3,
+    "namen": [
+      "Müller",
+      "Schmidt",
+      "Nguyen"
+    ]
+  },
+  {
+    "erledigt": 1,
+    "namen": [
+      "Yilmaz"
+    ]
+  }
+]
