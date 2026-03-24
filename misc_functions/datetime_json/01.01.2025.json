@@ -1,0 +1,22 @@
+{
+  "datum": "01.01.25",
+  "bloecke": [
+    {
+      "start": "08:00",
+      "ende": "10:00",
+      "typ": "arbeit",
+      "sekunden": 7200
+    },
+    {
+      "start": "10:00",
+      "ende": "11:00",
+      "typ": "pause",
+      "sekunden": 3600
+    }
+  ],
+  "summen": {
+    "arbeitszeit in Sekunden": 7200,
+    "pausenzeit in Sekunden": 3600,
+    "gesamtzeit in Sekunden": 10800
+  }
+}

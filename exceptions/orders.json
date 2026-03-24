@@ -1,0 +1,43 @@
+[
+  {
+    "order_id": "SB-001",
+    "customer": "Spongebob",
+    "count": 3,
+    "patty_price": 2.5
+  },
+  {
+    "order_id": "SB-002",
+    "customer": "Patrick",
+    "count": "3",
+    "patty_price": 2.5
+  },
+  {
+    "order_id": "SB-003",
+    "customer": "Squidward",
+    "count": null,
+    "patty_price": 2.5
+  },
+  {
+    "order_id": "SB-004",
+    "customer": "Sandy",
+    "count": "drei",
+    "patty_price": 2.5
+  },
+  {
+    "order_id": "SB-005",
+    "customer": "Mr. Krabs",
+    "count": 2,
+    "patty_price": "2.5"
+  },
+  {
+    "order_id": "SB-006",
+    "customer": "Plankton",
+    "count": 1,
+    "patty_price": null
+  },
+  {
+    "order_id": "SB-007",
+    "customer": "Gary",
+    "patty_price": 2.5
+  }
+]

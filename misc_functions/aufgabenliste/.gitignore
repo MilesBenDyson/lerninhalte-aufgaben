@@ -1,0 +1,20 @@
+# Bytecode-Dateien
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtuelle Umgebungen
+.venv/
+env/
+venv/
+
+# Editor-Dateien (PyCharm, VSCode)
+.idea/
+.vscode/
+
+# MacOS / Windows
+.DS_Store
+Thumbs.db
+
+# JSON-Dateien mit Aufgabenlisten
+aufgaben-*.json
